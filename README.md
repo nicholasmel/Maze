@@ -1,5 +1,5 @@
-## Maze
+# MazeSolver
 
-Nicholas Mel
+*Nicholas Mel*
 
-Simple Java Program
+**Simple Java Program**
